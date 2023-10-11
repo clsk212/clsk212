@@ -1,0 +1,8 @@
+# Ignore all .dll files
+*.dll
+
+# Ignore folder bin
+bin/
+
+# Ignore Dataset
+*.rar

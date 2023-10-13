@@ -1,5 +1,9 @@
 ### Welcome to my profile!!! 👋
 
+In this repository I'm sharing find some of my programming projects in order to show 
+you the way I usually organize my works.
+
+## ABOUT ME:
 - 📖 I studied an University Degree in Mathematical Engineering
 - 📚 I'm currently studying a MSc degree in Big Data, Data Science & AI.
 - 🔭 I’m currently looking for laboral experience in the fields of AI and Big Data.
@@ -8,3 +12,4 @@
 - 💬 Ask me about my future project ideas 
 - 📫 How to reach me: https://www.linkedin.com/in/carlos-p-0b6982129/
 - 😄 Pronouns: He/Him
+
